@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>2-18</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>acb13893-74ea-42d0-9e1c-6f6c11f66d9a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>14b30c3d-5bb2-429e-b3af-19001972d875</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Well done you clicked on the link!'</defaultValue>
+      <description></description>
+      <id>14b30c3d-5bb2-429e-b3af-19001972d875</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>
